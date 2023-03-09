@@ -1,0 +1,7 @@
+// Enter Spreadsheet ID here
+var SS = SpreadsheetApp.openById('ENTER_SHEET_ID');
+var timezone = "asia/karachi";
+var hours = 0;
+var str = "";
+
+
